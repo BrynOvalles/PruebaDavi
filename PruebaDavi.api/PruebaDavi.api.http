@@ -1,0 +1,6 @@
+@PruebaDavi.api_HostAddress = http://localhost:5188
+
+GET {{PruebaDavi.api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
